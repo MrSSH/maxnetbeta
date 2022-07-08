@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.1",
-  "ReleaseNotes": "UPDATE 1.2.1 - TESTES VIVOS NEW",
+  "Version": "1.2.2",
+  "ReleaseNotes": "UPDATE 1.2.2 - TESTES VIVOS NEW",
   "UrlUpdate": "https://mrssh.github.io/maxnetbeta/UrlUpdate",
   "Sms": "https://mrssh.github.io/maxnetbeta/UrlSms",
   "EmailFeedback": "mrsshxyz@gmail.com",
@@ -71,35 +71,35 @@
     }
   ],
   "Networks": [
-     {
-   "Name": "💙TIM REGIOES",
-   "FLAG": "tim",
-   "Payload": "GET ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
-   "SNI": "static.r4you.co",
-   "TlsIP": "104.26.5.175",
-   "ProxyIP": "",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
-  },
-  {
-   "Name": "👨🏻‍🚀 VIVO DDD48 👨🏻‍🚀",
-   "FLAG": "vivo",
-   "Payload": "GET wss://legado.vivo.com.br//HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:Websocket[crlf]Connection:Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-   "SNI": "legado.vivo.com.br",
-   "TlsIP": "104.21.11.51",
-   "ProxyIP": "",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
-  },   
-  {
-    "Name": "🟣VIVO [DIRECT 1]",
-    "FLAG": "vivo",
-    "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-    "SNI": "",
-    "TlsIP": "",
-    "ProxyIP": "104.24.10.16",
-    "ProxyPort": "80",
-    "Info": "Proxy"
+      {
+      "Name": "💙TIM REGIOES",
+      "FLAG": "tim",
+      "Payload": "GET ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "👨🏻‍🚀 VIVO DDD48 👨🏻‍🚀",
+      "FLAG": "vivo",
+      "Payload": "GET wss://legado.vivo.com.br//HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:Websocket[crlf]Connection:Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "legado.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },   
+   {
+      "Name": "🟣VIVO [DIRECT 1]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.24.10.16",
+      "ProxyPort": "80",
+      "Info": "Proxy"
    },
     {
       "Name": "🟣VIVO [DIRECT 2]",
@@ -110,7 +110,7 @@
       "ProxyIP": "104.24.10.16",
       "ProxyPort": "80",
       "Info": "Proxy"
-   },
+    },
     {
       "Name": "🟣VIVO [SSL 1]",
       "FLAG": "vivo",
@@ -172,7 +172,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🚑 VIVO ON 🟢  📡",
+      "Name": "🚑VIVO ON🟢📡",
       "FLAG": "vivo",
       "Payload": "GET wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "live.vivo.com.br",
@@ -260,6 +260,6 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    }
+     }
   ]
 }
