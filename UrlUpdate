@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.1",
-  "ReleaseNotes": "UPDATE 1.1.1 - TESTES VIVO",
+  "Version": "1.0.2",
+  "ReleaseNotes": "UPDATE 1.0.2 - TESTES VIVO",
   "UrlUpdate": "https://mrssh.github.io/maxnetbeta/UrlUpdate",
   "Sms": "https://mrssh.github.io/maxnetbeta/UrlSms",
   "EmailFeedback": "mrsshxyz@gmail.com",
@@ -72,7 +72,7 @@
   ],
   "Networks": [
       {
-      "Name": "💙TIM REGIOES",
+      "Name": "TIM REGIOES",
       "FLAG": "tim",
       "Payload": "GET ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -82,7 +82,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "👨🏻‍🚀 VIVO DDD48 👨🏻‍🚀",
+      "Name": "VIVO DDD48",
       "FLAG": "vivo",
       "Payload": "GET wss://legado.vivo.com.br//HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:Websocket[crlf]Connection:Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "legado.vivo.com.br",
@@ -92,7 +92,7 @@
       "Info": "Tlsws"
    },   
    {
-      "Name": "🟣VIVO [DIRECT 1]",
+      "Name": "VIVO DIRECT 1",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -102,7 +102,7 @@
       "Info": "Proxy"
    },
     {
-      "Name": "🟣VIVO [DIRECT 2]",
+      "Name": "🟣VIVO DIRECT 2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -112,7 +112,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🟣VIVO [SSL 1]",
+      "Name": "VIVO SSL 1",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -122,7 +122,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO [SSL 2]",
+      "Name": "VIVO SSL 2",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -132,7 +132,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO [SSL 3]",
+      "Name": "VIVO SSL 3",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -142,7 +142,7 @@
       "Info": "Tlsws"
     },
      {
-      "Name": "🟣VIVO [SSL 4]",
+      "Name": "VIVO SSL 4",
       "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -152,7 +152,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO [SSL 5]",
+      "Name": "VIVO SSL 5",
       "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -162,7 +162,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO [SSL 6]",
+      "Name": "VIVO SSL 6",
       "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -172,7 +172,7 @@
       "Info": "Tlsws"
    },
    {
-      "Name": "🚑VIVO ON🟢📡",
+      "Name": "VIVO ON",
       "FLAG": "vivo",
       "Payload": "GET wss://live.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "live.vivo.com.br",
