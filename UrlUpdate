@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.7",
-  "ReleaseNotes": "UPDATE 1.1.7 - TESTES VIVOS NOVOS",
+  "Version": "1.1.8",
+  "ReleaseNotes": "UPDATE 1.1.8 - TESTES VIVOS NOVOS",
   "UrlUpdate": "https://mrssh.github.io/maxnetbeta/UrlUpdate",
   "Sms": "https://mrssh.github.io/maxnetbeta/UrlSms",
   "EmailFeedback": "mrsshxyz@gmail.com",
@@ -84,7 +84,7 @@
   {
    "Name": "👨🏻‍🚀 VIVO DDD48 👨🏻‍🚀",
    "FLAG": "vivo",
-   "Payload": "GET wss://legado.vivo.com.br//HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:Websocket[crlf]Connection:Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]'',
+   "Payload": "GET wss://legado.vivo.com.br//HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:Websocket[crlf]Connection:Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
    "SNI": "legado.vivo.com.br",
    "TlsIP": "104.21.11.51",
    "ProxyIP": "",
