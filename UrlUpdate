@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.2",
-  "ReleaseNotes": "UPDATE 1.2.2",
+  "Version": "1.2.3",
+  "ReleaseNotes": "UPDATE 1.2.3",
   "UrlUpdate": "https://mrssh.github.io/maxnetbeta/UrlUpdate",
   "Sms": "https://mrssh.github.io/maxnetbeta/UrlSms",
   "EmailFeedback": "mrsshxyz@gmail.com",
@@ -70,19 +70,6 @@
       "PASS": ""
     }
   ],
-  "Networks": [
-    {
-       "Name": "SERVIDOR 03 | PLUS",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "detonawebssh3.xyz",
-      "CheckUser": "http://140.238.190.166:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-   ],
   "Networks": [
       {
      Name": "Conexao Vivo 06",
